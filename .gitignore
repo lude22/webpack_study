@@ -105,3 +105,6 @@ typings/
 
 # Webpack build js file
 /dist/main.js*
+
+# vscode workspace file
+*workspace
